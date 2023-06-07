@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/k1sport", K+ SPORT1 50FPS TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X31OcNDhCRxC8dmyDykM8g", "kid":"+r+nxw08Z4i3kog4PgNcpA" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd?begin=20230607T131500&maxrate=3000000&response=200&bk-ml=1
