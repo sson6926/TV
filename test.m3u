@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KA PLUT" tvg-logo="http://gg.gg/k1sport", K+ Original Site
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+r+nxw08Z4i3kog4PgNcpA", "kid":"X31OcNDhCRxC8dmyDykM8g" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd?begin=20230607T131500&maxrate=3000000&response=200&bk-ml=1
+#KODIPROP:inputstream.adaptive.license_key={'keys': [{'kty': 'oct', 'k': 'TMDoVTcnXHpMTWgFNi03IA', 'kid': '3+vI+ohqKCVeld4A7K6PTw'}, {'kty': 'oct', 'k': '/BvZJI1SffDJ9HV8ysTwLQ', 'kid': 'Jy/I+ohqKCVeld4A7K6PTw'}, {'kty': 'oct', 'k': 'voXqVVDExP1pmKulvI24EQ', 'kid': 'NDMMK4hqKCVeld4A7K6PTw'}, {'kty': 'oct', 'k': 'CwPwez37ctYxXw/Ga1IUfA', 'kid': 'IEAMQ9dqKCVeld4A7K6PTw'}], 'type': 'temporary'}  
+https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
